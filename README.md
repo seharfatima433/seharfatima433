@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1A78,50:8B5CF6,100:A78BFA&height=220&section=header&text=Sehar%20Fatima&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1A78,50:8B5CF6,100:A78BFA&height=220&section=header&text=Sehar%20Fatima&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+products;Laravel+%2B+React+%2B+Node.js+%2B+Flutter;RAG+Pipelines+%7C+Vector+Search+%7C+Computer+Vision;BS-IT+%40+Baba+Guru+Nanak+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%2B+React+%2B+Node.js+%2B+Flutter;Building+Responsive%2C+Production-Ready+Web+Apps;BS-IT+%40+Baba+Guru+Nanak+University" alt="Typing SVG" />
 
 <br/>
 
@@ -33,19 +33,20 @@
 
 <img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react icon" />
 
-I'm a **full-stack software engineer** who works across the entire product lifecycle — from interface design to backend architecture to shipped, production-ready systems. My core stack spans **React** on the frontend, **Laravel** and **Node.js** on the backend, and **Flutter** for mobile, backed by **MySQL** and **Firebase**.
+I'm a **full-stack web developer** who works across the entire product lifecycle — from interface design to backend architecture to shipped, production-ready web applications. My core stack spans **React** on the frontend, **Laravel** and **Node.js** on the backend, and **Flutter** for mobile, backed by **MySQL** and **Firebase**.
 
-Over the past year I've focused heavily on **applied AI engineering** — building **Retrieval-Augmented Generation (RAG) pipelines**, integrating **Gemini AI/Vision**, and working with **Pinecone vector search** for high-dimensional document retrieval. I've also built real-time **computer vision** systems for gaze and object detection.
+I've built and deployed everything from internal university web systems to a full production e-commerce platform — handling **UI/UX**, **REST APIs**, **database design**, and **payment gateway integration** end to end. Alongside core web development, I also bring **applied AI capabilities** to my projects — integrating **Gemini AI/Vision**, **RAG pipelines**, and **Pinecone vector search** where they add real product value.
 
 I care about **product engineering**, not just code — taking a feature from a whiteboard idea through architecture, implementation, and deployment, whether in an academic team setting or as a solo freelance developer managing the entire client relationship.
 
 ```yaml
-Role:            Full-Stack & AI Engineer
-Focus:           Web Systems · RAG Pipelines · Computer Vision · Mobile Apps
+Role:            Full-Stack Web Developer
+Focus:           Web Development · REST APIs · Full-Stack Architecture · Mobile Apps
+Also Building:   AI-Integrated Features (RAG, Computer Vision)
 Currently:       BS-IT @ Baba Guru Nanak University (2026)
 ```
 
-**🎯 Open To:** Full-Stack Engineering Roles · AI/ML Engineering Roles · Freelance Full-Stack Projects · Open Source Collaboration
+**🎯 Open To:** Full-Stack Web Developer Roles · Frontend/Backend Engineering Roles · Freelance Web Projects · Open Source Collaboration
 
 <br clear="right"/>
 
@@ -95,7 +96,7 @@ Currently:       BS-IT @ Baba Guru Nanak University (2026)
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🧠 Additional Expertise — AI / ML Integration
 
 <div align="center">
 
@@ -253,7 +254,7 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=seharfatima433&show_icons=true&theme=radical&hide_border=true&bg_color=1E1240&title_color=A78BFA&icon_color=A78BFA&text_color=E6D9FF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=seharfatima433&theme=radical&hide_border=true&background=1E1240&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" />
+<img height="165" src="https://streak-stats.demolab.com?user=seharfatima433&theme=radical&hide_border=true&background=1E1240&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" />
 
 <br/>
 
@@ -296,10 +297,10 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 ## 🎯 Current Focus
 
 ```yaml
-Learning:    Advanced RAG architectures, agentic AI systems, scalable vector search
-Building:    AI-integrated full-stack products across web and mobile
-Exploring:   Multi-modal AI, LLM orchestration, real-time computer vision
-Open To:     Full-Stack Roles · AI Engineering Roles · Freelance Collaboration
+Learning:    Advanced React patterns, scalable backend architecture, cloud deployment
+Building:    Full-stack web applications with select AI-powered features
+Exploring:   Performance optimization, API design, real-time computer vision
+Open To:     Full-Stack Web Developer Roles · Freelance Web Projects · Collaboration
 ```
 
 ---
