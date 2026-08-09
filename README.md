@@ -12,10 +12,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
+[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
 
 <br/>
 
@@ -236,19 +236,6 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 
 ---
 
-## 🧩 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/seharfatima433)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/seharfatima433)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/seharfatima433)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-3B1A78?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/seharfatima433)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -308,10 +295,10 @@ Open To:     Full-Stack Web Developer Roles · Freelance Web Projects · Collabo
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-seharfatima.dev%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Gmail](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
+[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
