@@ -33,11 +33,7 @@
 
 <img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react icon" />
 
-I'm a **full-stack web developer** who works across the entire product lifecycle — from interface design to backend architecture to shipped, production-ready web applications. My core stack spans **React** on the frontend, **Laravel** and **Node.js** on the backend, and **Flutter** for mobile, backed by **MySQL** and **Firebase**.
-
-I've built and deployed everything from internal university web systems to a full production e-commerce platform — handling **UI/UX**, **REST APIs**, **database design**, and **payment gateway integration** end to end. Alongside core web development, I also bring **applied AI capabilities** to my projects — integrating **Gemini AI/Vision**, **RAG pipelines**, and **Pinecone vector search** where they add real product value.
-
-I care about **product engineering**, not just code — taking a feature from a whiteboard idea through architecture, implementation, and deployment, whether in an academic team setting or as a solo freelance developer managing the entire client relationship.
+I'm a **full-stack web developer** — 🎨 **React** frontend, ⚙️ **Laravel / Node.js** backend, 📱 **Flutter** mobile, backed by **MySQL** & **Firebase**. I've shipped everything from university web systems to a live e-commerce platform, owning **UI/UX**, **REST APIs**, and **deployment** end to end. I also bring 🤖 **AI features** (Gemini, RAG, vector search) into my web projects where they add real value.
 
 ```yaml
 Role:            Full-Stack Web Developer
@@ -118,18 +114,19 @@ Currently:       BS-IT @ Baba Guru Nanak University (2026)
 <summary><b>🧬 AI Document RAG Chatbot</b></summary>
 <br/>
 
-Document-based Retrieval-Augmented Generation system that parses technical documents — including complex math notation — and answers questions grounded in the source material.
+RAG system that parses technical documents (including math notation) and answers questions grounded in the source.
+
+![Laravel](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=laravel&logoColor=white) ![Gemini](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=googlegemini&logoColor=white) ![Pinecone](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=pinecone&logoColor=white) ![Tailwind](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=tailwindcss&logoColor=white)
 
 | Category | Details |
 |---|---|
-| **Stack** | Laravel · Gemini 2.0 · Pinecone DB · MathJax · Tailwind CSS |
 | **Scale** | 768-dimension vector embeddings, line-level document chunking |
 | **Performance** | Low-latency semantic retrieval via Pinecone ANN search |
 | **Security** | Server-side API key handling, sanitized document ingestion |
 | **Impact** | Accurate retrieval over technical/mathematical source material |
-| **Repository** | [🔗 Live Demo](https://your-project-link.com) |
+| **Repository** | [🔗 Live Demo](https://devlura.site/RAG-chatbot/)|
 
-Built a full RAG pipeline from scratch: documents are OCR'd with **Gemini Vision**, chunked at line-level granularity, embedded, and indexed into a **768-dimension Pinecone vector store**. Retrieval is paired with **MathJax** rendering so LaTeX-based mathematical content displays correctly in chat responses — a non-trivial detail for technical document Q&A.
+Documents are OCR'd with **Gemini Vision**, chunked, embedded, and indexed into a **768-dim Pinecone store**. Retrieval pairs with **MathJax** for correct LaTeX rendering in responses.
 
 </details>
 
@@ -137,18 +134,19 @@ Built a full RAG pipeline from scratch: documents are OCR'd with **Gemini Vision
 <summary><b>🎥 AI Exam Proctoring System</b></summary>
 <br/>
 
-Web-based exam integrity platform using live computer vision to flag suspicious behavior during remote assessments.
+Exam integrity platform using live computer vision to flag suspicious behavior during remote assessments.
+
+![Laravel](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=javascript&logoColor=white)
 
 | Category | Details |
 |---|---|
-| **Stack** | Laravel · Computer Vision · AJAX · MySQL · Bootstrap |
 | **Scale** | Real-time frame analysis per active exam session |
-| **Performance** | Live AJAX-driven gaze tracking with minimal UI blocking |
-| **Security** | Automatic incident logging tied to authenticated exam sessions |
+| **Performance** | Live AJAX-driven gaze tracking, minimal UI blocking |
+| **Security** | Automatic incident logging on authenticated sessions |
 | **Impact** | Reduces manual invigilation overhead for remote exams |
-| **Repository** | [🔗 Live Demo](https://your-project-link.com) |
+| **Repository** | [🔗 Live Demo](https://devlura.site/web-cheating-detection-main/public/)|
 
-Implemented **real-time gaze tracking** and **multi-person-in-frame detection** to flag potential academic dishonesty during online exams. Flagged incidents are automatically logged to a MySQL-backed audit trail, giving instructors a reviewable record without needing to watch every session live.
+Real-time **gaze tracking** and **multi-person detection** flag potential dishonesty. Flagged incidents auto-log to a MySQL audit trail for instructor review.
 
 </details>
 
@@ -156,18 +154,19 @@ Implemented **real-time gaze tracking** and **multi-person-in-frame detection** 
 <summary><b>🛒 Full-Stack E-Commerce Platform</b></summary>
 <br/>
 
-End-to-end online store covering catalog browsing, cart, checkout, and payment processing.
+End-to-end online store — catalog, cart, checkout, and payment processing.
+
+![Laravel](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=mysql&logoColor=white) ![Stripe](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=stripe&logoColor=white) ![Tailwind](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=tailwindcss&logoColor=white)
 
 | Category | Details |
 |---|---|
-| **Stack** | Laravel · MySQL · Payment Gateway · JavaScript ES6 · Tailwind CSS |
 | **Scale** | Full product catalog with filtering and cart persistence |
-| **Performance** | Optimized query filtering for product search/browse flows |
-| **Security** | Secured payment gateway integration and session handling |
-| **Impact** | Fully functional store from browsing through payment |
-| **Repository** | [🔗 Live Demo](https://your-project-link.com) |
+| **Performance** | Optimized query filtering for product search/browse |
+| **Security** | Secured payment gateway integration and sessions |
+| **Impact** | Fully functional store, browsing through payment |
+| **Repository** | [🔗 Live Demo](https://devlura.site/E-Commerce/public/)|
 
-Designed and built the store from the ground up — **product filtering**, **shopping cart logic**, **checkout flow**, and **payment gateway integration** — as a complete, deployable e-commerce solution rather than a template-based build.
+Built from the ground up — **filtering**, **cart logic**, **checkout**, and **payment integration** — as a complete, deployable solution.
 
 </details>
 
@@ -179,13 +178,13 @@ Designed and built the store from the ground up — **product filtering**, **sho
 **Baba Guru Nanak University**
 `Ongoing`
 
-Built and maintained dynamic modules for internal university web systems, owning both the interface layer and the underlying data layer.
+Built and maintained dynamic modules for university web systems — interface + data layer, end to end.
 
-- Designed and implemented full-stack modules for internal academic systems
-- Collaborated directly with faculty to translate academic requirements into functioning software features
-- Maintained and extended existing university web infrastructure
+- Full-stack modules for internal academic systems
+- Translated faculty requirements into working features
+- Maintained core university web infrastructure
 
-`Laravel` `MySQL` `JavaScript` `Full-Stack Development`
+![Laravel](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=javascript&logoColor=white)
 
 <br/>
 
@@ -193,13 +192,13 @@ Built and maintained dynamic modules for internal university web systems, owning
 **Self-Employed**
 `Ongoing`
 
-Delivered complete full-stack solutions for multiple clients independently, owning the process end-to-end.
+Delivered complete full-stack solutions for multiple clients, solo — requirements to deployment.
 
-- Gathered requirements directly from clients and translated them into technical architecture
-- Built and deployed production-ready websites without a supporting team
-- Managed client communication and revision cycles solo, from kickoff to launch
+- Gathered requirements, designed architecture
+- Built and deployed production-ready sites, no team
+- Handled all client communication and revisions
 
-`Laravel` `React` `MySQL` `Payment Gateways` `Client Management`
+![Laravel](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=mysql&logoColor=white) ![Stripe](https://img.shields.io/badge/-4C1D95?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
