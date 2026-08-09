@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1A78,50:8B5CF6,100:A78BFA&height=220&section=header&text=Sehar%20Fatima&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%2B+React+%2B+Node.js+%2B+Flutter;Building+Responsive%2C+Production-Ready+Web+Apps;BS-IT+%40+Baba+Guru+Nanak+University" alt="Typing SVG" /> <br/>
 Nice meeting you, I'm **Sehar Fatima**!
 
 - 🌐 I'm currently working as a **Full-Stack Web Developer**
@@ -29,3 +28,20 @@ Nice meeting you, I'm **Sehar Fatima**!
 ### 📊 GitHub Stats
 
 <img height="150" src="https://raw.githubusercontent.com/seharfatima433/seharfatima433/output/metrics.svg" />
+🏆 Achievements
+<div align="center">
+Recognition	Details
+🥈 Tech Festival — 2nd Place	Recognized for outstanding web design at a university-wide tech festival
+💻 PM Laptop Scheme	Awarded a laptop for academic achievement under the Prime Minister's Laptop Scheme
+📜 HEC NSCT Certification	Scored 82.7 percentile — top 17.3% of IT students nationwide across 10 core computing domains (April 2026)
+🌐 University Web Initiatives	Regular contributor to web development initiatives at Baba Guru Nanak University
+</div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=seharfatima433&theme=react-dark&hide_border=true&bg_color=1E1240&color=A78BFA&line=A78BFA&point=E6D9FF" width="100%"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/seharfatima433/seharfatima433/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
+<div align="center">
+
+"Code is the bridge between an idea and its impact."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:8B5CF6,100:3B1A78&height=120&section=footer" width="100%"/> </div>
