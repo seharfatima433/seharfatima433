@@ -12,8 +12,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://devlura.site/3d-portfolio/public/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sehar-fatima-895aa035a/)
 [![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
 
@@ -250,16 +250,6 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=seharfatima433&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -296,9 +286,9 @@ Open To:     Full-Stack Web Developer Roles · Freelance Web Projects · Collabo
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sehar-fatima-895aa035a/)
 [![GitHub](https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
-[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/-portfolio-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://devlura.site/3d-portfolio/public/)
 
 </div>
 
