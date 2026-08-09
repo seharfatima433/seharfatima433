@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Sehar%20Fatima&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1A78,50:8B5CF6,100:A78BFA&height=220&section=header&text=Sehar%20Fatima&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+products;Laravel+%2B+React+%2B+Node.js+%2B+Flutter;RAG+Pipelines+%7C+Vector+Search+%7C+Computer+Vision;BS-IT+%40+Baba+Guru+Nanak+University" alt="Typing SVG" />
 
 <br/>
 
-![HEC NSCT](https://img.shields.io/badge/HEC%20NSCT-82.7%20Percentile-6A0DAD?style=for-the-badge&logo=bookstack&logoColor=white)
-![PM Laptop Scheme](https://img.shields.io/badge/PM%20Laptop%20Scheme-Awardee-8A2BE2?style=for-the-badge&logo=starship&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Nankana%20Sahib%2C%20Pakistan-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
+![HEC NSCT](https://img.shields.io/badge/HEC%20NSCT-82.7%20Percentile-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)
+![PM Laptop Scheme](https://img.shields.io/badge/PM%20Laptop%20Scheme-Awardee-A78BFA?style=for-the-badge&logo=starship&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Nankana%20Sahib%2C%20Pakistan-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seharfatima433&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/seharfatima433?style=for-the-badge&color=6A0DAD&labelColor=2E0854)
-![Stars](https://img.shields.io/github/stars/seharfatima433?style=for-the-badge&color=8A2BE2&labelColor=2E0854)
+![Followers](https://img.shields.io/github/followers/seharfatima433?style=for-the-badge&color=8B5CF6&labelColor=3B1A78)
+![Stars](https://img.shields.io/github/stars/seharfatima433?style=for-the-badge&color=A78BFA&labelColor=3B1A78)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ---
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/microsoft/vscode-icons/main/icons/dark/react.svg" alt="react icon" />
+<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react icon" />
 
 I'm a **full-stack software engineer** who works across the entire product lifecycle — from interface design to backend architecture to shipped, production-ready systems. My core stack spans **React** on the frontend, **Laravel** and **Node.js** on the backend, and **Flutter** for mobile, backed by **MySQL** and **Firebase**.
 
@@ -57,12 +57,12 @@ Currently:       BS-IT @ Baba Guru Nanak University (2026)
 
 **Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-6A0DAD?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-6A0DAD?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6A0DAD?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-6A0DAD?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-8B5CF6?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8B5CF6?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-8B5CF6?style=flat-square&logo=dart&logoColor=white)
 
 **Frontend**
 
@@ -74,18 +74,18 @@ Currently:       BS-IT @ Baba Guru Nanak University (2026)
 
 **Backend & Databases**
 
-![Laravel](https://img.shields.io/badge/Laravel-4C1D95?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-4C1D95?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4C1D95?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-4C1D95?style=flat-square&logo=firebase&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone%20DB-4C1D95?style=flat-square&logo=databricks&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-7C3AED?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone%20DB-7C3AED?style=flat-square&logo=databricks&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-![Git](https://img.shields.io/badge/Git-2E0854?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2E0854?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2E0854?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3B1A78?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3B1A78?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-3B1A78?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-3B1A78?style=flat-square&logo=postman&logoColor=white)
 
 <br/>
 
@@ -223,7 +223,7 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 
 **HEC Pakistan**
 
-![NSCT](https://img.shields.io/badge/NSCT-82.7%20Percentile-6A0DAD?style=for-the-badge&logo=bookstack&logoColor=white)
+![NSCT](https://img.shields.io/badge/NSCT-82.7%20Percentile-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)
 
 **Professional & Foundational**
 
@@ -239,10 +239,10 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/seharfatima433)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/seharfatima433)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/seharfatima433)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/seharfatima433)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-2E0854?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/seharfatima433)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/seharfatima433)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-3B1A78?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/seharfatima433)
 
 </div>
 
@@ -252,12 +252,12 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seharfatima433&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8A2BE2&text_color=E6D9FF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=seharfatima433&theme=radical&hide_border=true&background=0D0221&stroke=8A2BE2&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=seharfatima433&show_icons=true&theme=radical&hide_border=true&bg_color=1E1240&title_color=A78BFA&icon_color=A78BFA&text_color=E6D9FF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=seharfatima433&theme=radical&hide_border=true&background=1E1240&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharfatima433&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E6D9FF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharfatima433&layout=compact&theme=radical&hide_border=true&bg_color=1E1240&title_color=A78BFA&text_color=E6D9FF" />
 
 </div>
 
@@ -277,7 +277,7 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seharfatima433&theme=react-dark&hide_border=true&bg_color=0D0221&color=A78BFA&line=8A2BE2&point=E6D9FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seharfatima433&theme=react-dark&hide_border=true&bg_color=1E1240&color=A78BFA&line=A78BFA&point=E6D9FF" width="100%"/>
 
 </div>
 
@@ -308,10 +308,10 @@ Open To:     Full-Stack Roles · AI Engineering Roles · Freelance Collaboration
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-seharfatima.dev%40gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sehar-fatima-895aa035a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E0854?style=for-the-badge&logo=vercel&logoColor=white)](https://devlura.site/3d-portfolio/public/)
+[![Gmail](https://img.shields.io/badge/Gmail-seharfatima.dev%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seharfatima.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seharfatima433)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B1A78?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
@@ -321,6 +321,6 @@ Open To:     Full-Stack Roles · AI Engineering Roles · Freelance Collaboration
 
 *"Code is the bridge between an idea and its impact."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A0DAD,100:2E0854&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:8B5CF6,100:3B1A78&height=120&section=footer" width="100%"/>
 
 </div>
