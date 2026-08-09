@@ -20,10 +20,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: output
           committer_message: "Update metrics"
-          base: header, activity, community, repositories, metadata
+          base: header, activity
           plugin_languages: yes
           plugin_languages_analysis_timezone: Asia/Karachi
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_threshold: 0%
+          plugin_languages_details: lines
           config_timezone: Asia/Karachi
+          config_display: large
