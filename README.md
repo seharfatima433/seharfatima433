@@ -253,12 +253,11 @@ Delivered complete full-stack solutions for multiple clients independently, owni
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seharfatima433&show_icons=true&theme=radical&hide_border=true&bg_color=1E1240&title_color=A78BFA&icon_color=A78BFA&text_color=E6D9FF" />
 <img height="165" src="https://streak-stats.demolab.com?user=seharfatima433&theme=radical&hide_border=true&background=1E1240&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharfatima433&layout=compact&theme=radical&hide_border=true&bg_color=1E1240&title_color=A78BFA&text_color=E6D9FF" />
+<img src="https://raw.githubusercontent.com/seharfatima433/seharfatima433/output/metrics.svg" width="100%"/>
 
 </div>
 
